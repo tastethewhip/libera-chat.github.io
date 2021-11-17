@@ -303,6 +303,3 @@ your connection for abusive purposes, even without you knowing.
 
 If you are unsure why a proxy is being detected on your address, you're
 welcome to contact staff by email: <support@libera.chat>.
-
-
-
